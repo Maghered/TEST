@@ -20,6 +20,6 @@ public class Main {
         catch (NumberFormatException erreur) {
             System.out.println(nb + " n'est pas un nombre");
             System.out.println(erreur.toString());
-        }//test
+        }
 	}
 }
